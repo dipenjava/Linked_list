@@ -90,8 +90,6 @@ int main()
 
 
 }
-//yehssb
-//ggh
 
 
 
