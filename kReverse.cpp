@@ -87,10 +87,12 @@ int main()
     cout<<"after k reverse LL is: "<<endl;
     print(head);
     freeMemory(head);
+    cout<<"program completed";
 
 
 }
-
+//dedcdcd
+cdd
 
 
 
