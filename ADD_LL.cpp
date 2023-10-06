@@ -38,6 +38,8 @@ void print(Node* &head)
     }
     cout<<endl;
 }
+
+
 Node* reverse(Node* &head)
 {
     Node* curr=head;
