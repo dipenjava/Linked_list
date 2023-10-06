@@ -26,6 +26,8 @@ void insertAtTail(Node* &head, Node* &tail,int d)
         tail=temp;
     }
 }
+
+
 void print(Node* &head)
 {
     Node* temp =head;
