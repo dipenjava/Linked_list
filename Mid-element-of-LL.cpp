@@ -9,7 +9,6 @@ public:
     {
         this->data=data;
         this->next=NULL;
-        
     }
 };
 void insertAtTail(Node* &head,Node* &tail,int d)
